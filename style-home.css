@@ -20,12 +20,12 @@ p {
 }
 
 ul {
-	display: inline-blok ;
+	display: inline-block ;
 	vertical-aling:top;
-	width:20%;
-	margin: rigth 15%;
+	width: 20%;
+	margin-right: 15%;
 }
 
-.imagemmaleficios{
+.imagembeneficios{
 	width:50%;
 }
