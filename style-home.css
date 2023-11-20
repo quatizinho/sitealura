@@ -18,3 +18,14 @@
 p {
 	text-align: center;
 }
+
+ul {
+	display: inline-blok ;
+	vertical-aling:top;
+	width:20%;
+	margin: rigth 15%;
+}
+
+.imagemmaleficios{
+	width:50%;
+}
